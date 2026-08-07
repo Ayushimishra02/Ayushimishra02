@@ -4,7 +4,7 @@
 
 I am a 3rd-year B-Tech student at SOA University specializing in Computer Science. I am passionate about building human-centered AI systems that bridge communication gaps and solve real-world problems.
 
-- 🔭 **Currently working on:** Edge AI for Animal Welfare using Raspberry Pi and Random Forest (Research Collaboration with IIT Guwahati).
+- 🔭 **Currently working on**: Edge AI research for animal welfare in collaboration with IIT Guwahati. Currently focusing on the software and ML pipeline, including audio preprocessing, dataset preparation, model development, validation, and optimization. Raspberry Pi deployment is planned as the next phase..
 - 🏆 **Key Achievements & Certifications:**
     * **5-Star Developer** on HackerRank.
     * **Google Cloud Career Readiness:** Completed comprehensive training in Cloud Infrastructure and Data Engineering.
